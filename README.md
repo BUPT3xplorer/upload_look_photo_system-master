@@ -1,0 +1,2 @@
+# upload_look_photo_system-master
+基于flask框架的图像识别自动存储系统
